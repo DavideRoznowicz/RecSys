@@ -1,0 +1,12 @@
+# requirements: before running anything, make sure you
+# have the conda env set up correctly. In order to do that,
+# just write the following lines in a linux terminal
+
+
+conda create -n projectRetrieval python==3.9.*
+conda activate projectRetrieval
+conda install -c conda-forge scipy==1.10.*
+conda install -c anaconda numpy
+conda install -c anaconda pandas
+conda install -c conda-forge matplotlib
+conda install -c anaconda jupyter
