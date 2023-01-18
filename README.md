@@ -8,4 +8,6 @@ RecSys for Information Retrieval
 
 * In [model_trained](/model_trained) we can find the instance of a trained model (30 iterations); the parameters for this saved model are the same ones that we can see in the jupyter notebook.
 
+* In [RecSys_IR.pdf](/RecSys_IR.pdf) we can find a presentation for the whole work done
+
 
